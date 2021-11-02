@@ -1,0 +1,3 @@
+number=$((RANDOM))
+
+echo $number
