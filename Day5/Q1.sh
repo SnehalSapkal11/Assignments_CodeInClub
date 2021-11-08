@@ -1,3 +1,3 @@
-number=$((RANDOM))
+number=$((RANDOM%10))
 
 echo $number
